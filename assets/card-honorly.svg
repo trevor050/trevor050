@@ -7,7 +7,7 @@
   </defs>
   <g clip-path="url(#c)">
     <rect width="420" height="150" fill="#0d0e12"/>
-    <g filter="url(#b)" opacity="0.55"><ellipse cx="330" cy="-10" rx="170" ry="70" fill="#2a8a86"/><ellipse cx="90" cy="-30" rx="150" ry="60" fill="#2f6f7a"/></g>
+    <g filter="url(#b)" opacity="0.55"><ellipse cx="330" cy="-10" rx="170" ry="70" fill="#b84a62"/><ellipse cx="90" cy="-30" rx="150" ry="60" fill="#8a2f4c"/></g>
     <rect width="420" height="150" fill="url(#f)"/>
     <text x="26" y="48" font-size="10.5" font-weight="600" letter-spacing="2.6" fill="#8e94a0">CO-FOUNDER &amp; CTO</text>
     <text x="25" y="92" font-size="27" font-weight="300" letter-spacing="-0.3" fill="#f3f4f6">HonorlyAI</text>
