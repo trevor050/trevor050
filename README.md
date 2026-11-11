@@ -50,7 +50,7 @@ The scratch work is public too. [ulm-ml](https://github.com/trevor050/ulm-ml) is
 
 <br clear="both">
 
-## Older stuff
+## Other stuff
 
 Fun artifacts from when I was bored. Some of them are getting a second life.
 
