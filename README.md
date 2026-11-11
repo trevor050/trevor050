@@ -73,7 +73,7 @@ Fun artifacts from when I was bored. Some of them are getting a second life.
 | [content-guard](https://github.com/trevor050/content-guard) | Text moderation that sees through leetspeak and look-alike letters. |
 | [LunchBarApp](https://github.com/trevor050/LunchBarApp) | The cafeteria menu, in your Mac's menu bar. |
 | [pong](https://github.com/trevor050/pong) | A screensaver where two balls fight over a grid forever. |
-| [professorwhiting](https://github.com/trevor050/professorwhiting) | TARIFF WARS, an 8-bit supply chain boss fight built to be played live in class. |
+| [tariffwars](https://github.com/trevor050/tariffwars) | TARIFF WARS, an 8-bit supply chain boss fight built to be played live in class. |
 
 <br>
 
