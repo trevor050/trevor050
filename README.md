@@ -11,7 +11,7 @@ I'm Trevor. I've been writing software since before high school. These days I si
 <br>
 
 <p align="center">
-  <a href="https://honorlyai.com"><img src="assets/card-honorly.svg" alt="HonorlyAI: Co-founder and CTO. A K-12 AI agent platform." width="32%"></a>
+  <a href="https://honorlyai.com"><img src="assets/card-honorly.svg" alt="HonorlyAI: AI Solutions Architect. A K-12 AI agent platform." width="32%"></a>
   <a href="https://aeneastech.com"><img src="assets/card-aeneas.svg" alt="Aeneas Technologies: Head of Growth. K-12 cybersecurity." width="32%"></a>
   <img src="assets/card-openai.svg" alt="OpenAI Student Collective: Campus Lead. Rutgers, inaugural class." width="32%">
 </p>
