@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Trevor Rosato. Software cost is collapsing. Distribution and people who care are the hard part." width="100%">
 </a>
 
-I'm Trevor. I'm 18, I live in central New Jersey, and I'm a freshman at Rutgers Business School studying Business Analytics & IT and Supply Chain. I've been writing software since before high school. These days I sit closer to product and growth than pure engineering, mostly because building the thing stopped being the hard part.
+I'm Trevor. I've been writing software since before high school. These days I sit closer to product and growth than pure engineering, mostly because building the thing stopped being the hard part.
 
 "ULM" is the name I put on personal work. You'll see it on a few repos below.
 
